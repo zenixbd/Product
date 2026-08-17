@@ -12,7 +12,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Bot Token
-TOKEN = "8852119659:AAGVte4r5e3T5iCA6-4bJNfsWp-Wp1L1ykM"  # আপনার বট টোকেন দিন
+TOKEN = "8852119659:-4bJNfsWp-Wp1L1ykM"  # আপনার বট টোকেন দিন
 
 # Admin Password
 ADMIN_PASSWORD = "01328724002"
